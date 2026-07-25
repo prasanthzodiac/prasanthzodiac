@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/prasanthzodiac/Zodiac/snake-output/github-snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/snake-output/github-snake.svg?v=1" alt="Snake animation" />
 
 ###
 
@@ -47,6 +47,9 @@
 ###
 
 <div data-importer="socials" align="center">
+  <a href="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&color=007ACC&logoColor=white&style=for-the-badge" height="35" />
+  </a>
   <a href="https://www.youtube.com/@Prasanthzodiac" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   </a>
@@ -89,9 +92,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasanthzodiac/Zodiac/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasanthzodiac/Zodiac/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prasanthzodiac/Zodiac/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/pacman-output/pacman-contribution-graph-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/pacman-output/pacman-contribution-graph.svg?v=1">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/pacman-output/pacman-contribution-graph.svg?v=1">
 </picture>
 
 ###
