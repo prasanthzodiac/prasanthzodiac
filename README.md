@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center">Hi 👋, I'm Prasanth Zodiac<br>Full Stack Developer | Data Analytics Enthusiast | AI Explorer<br><br>Passionate Computer Science student focused on building scalable web applications, AI-powered solutions, and data-driven projects. I enjoy transforming ideas into real-world products and continuously learning new technologies.</h2>
+<h2 data-importer="text" align="center">Hi , I'm Prasanth Zodiac<br>Full Stack Developer | Data Analytics Enthusiast | AI Explorer<br><br>Passionate Computer Science student focused on building scalable web applications, AI-powered solutions, and data-driven projects. I enjoy transforming ideas into real-world products and continuously learning new technologies.</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">🎓 B.E Computer Science Student<br>💻 Full Stack Web Developer<br>📊 Data Analytics Enthusiast<br>🤖 Interested in AI & Automation<br>🚀 Building innovative digital products<br>🌱 Currently learning advanced Full Stack Development and AI technologies</h3>
+<h3 data-importer="text" align="center"> B.E Computer Science Student<br> Full Stack Web Developer<br> Data Analytics Enthusiast<br> Interested in AI & Automation<br> Building innovative digital products<br> Currently learning advanced Full Stack Development and AI technologies</h3>
 
 ###
 
