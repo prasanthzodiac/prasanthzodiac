@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,14,20&height=200&section=header&text=Prasanth%20Zodiac&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20Explorer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="./header-banner.svg" width="100%" alt="Prasanth Zodiac Designer Banner" />
 </p>
 
 <p align="center">
