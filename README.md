@@ -1,104 +1,118 @@
-<br clear="both">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,14,20&height=220&section=header&text=Prasanth%20S&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20Explorer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
+</p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/snake-output/github-snake.svg?v=1" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<h2 data-importer="text" align="center">Hi , I'm Prasanth Zodiac<br>Full Stack Developer | Data Analytics Enthusiast | AI Explorer<br><br>Passionate Computer Science student focused on building scalable web applications, AI-powered solutions, and data-driven projects. I enjoy transforming ideas into real-world products and continuously learning new technologies.</h2>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-###
-
-<h3 data-importer="text" align="center"> B.E Computer Science Student<br> Full Stack Web Developer<br> Data Analytics Enthusiast<br> Interested in AI & Automation<br> Building innovative digital products<br> Currently learning advanced Full Stack Development and AI technologies</h3>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/main/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&color=007ACC&logoColor=white&style=for-the-badge" height="35" />
+<p align="center">
+  <a href="https://github.com/prasanthzodiac">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Developer;AI+%26+Automation+Enthusiast;Next.js+%7C+React+18+%7C+TypeScript;Building+Scalable+Digital+Products" alt="Typing SVG" />
   </a>
-  <a href="https://www.youtube.com/@Prasanthzodiac" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/zodiac.edits_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discord.gg/p6fsdEvBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:Prasanthzodiac@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+</p>
+
+<p align="center">
+  <a href="https://prasanthzodiacportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/prasanthzodiac/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/zodiac_edits" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-E0234E?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
-</div>
+  <a href="mailto:Prasanthzodiac@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.gg/p6fsdEvBug" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.youtube.com/@Prasanthzodiac" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
-###
+<br/>
+
+<!-- ========================================== -->
+<!-- TERMINAL DISPLAY: ASCII ART + STATS CARD -->
+<!-- ========================================== -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./avatar-ascii.svg" width="100%" alt="Self-Typing ASCII Avatar" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./stats.svg" width="100%" alt="Terminal Stats and Monthly Graph" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- LIVE CONTRIBUTION HEATMAP SVG (DAILY SYNC) -->
+<!-- ========================================== -->
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prasanthzodiac&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanthzodiac&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./contrib-heatmap.svg" width="100%" alt="Live Animated Contribution Graph" />
 </div>
 
-###
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasanthzodiac&theme=tokyonight&hide_border=true" />
-</div>
+### 👨‍💻 About Me
 
-###
+- 🎓 **Education**: B.E. Computer Science & Engineering student with a passion for software design and system architecture.
+- 💻 **Core Engineering**: Specialized in building responsive, high-performance web applications using **Next.js, React 18, TypeScript, Node.js, and modern CSS/Tailwind**.
+- 🤖 **AI & Automation**: Building intelligent automation workflows and offline intelligence pipelines using **Python, Ollama (LLaMA-3), and data analytics**.
+- 🎨 **Design & Motion**: Strong background in visual aesthetics, video editing (After Effects), and modern UI/UX principles—bridging technical logic with fluid design.
+- 🔭 **Currently Building**: Next.js 15 enterprise billing systems and reproducible ML experimentation frameworks.
+- 💬 **Ask Me About**: Full-Stack architecture, RESTful APIs, local LLM tooling, and frontend performance.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prasanthzodiac&theme=tokyonight&row=1&column=7" />
-</div>
+<br/>
 
-###
+### 🛠️ Tech Stack & Tooling
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/pacman-output/pacman-contribution-graph-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/pacman-output/pacman-contribution-graph.svg?v=1">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/pacman-output/pacman-contribution-graph.svg?v=1">
-</picture>
+<p align="center">
+  <b>Frontend & UI</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vite,html,css" alt="Frontend Stack" />
+  </a>
+</p>
 
-###
+<p align="center">
+  <b>Backend, Database & AI</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,py,fastapi" alt="Backend Stack" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prasanthzodiac&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</div>
+<p align="center">
+  <b>Tools, Cloud & DevOps</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,postman,vscode,ae" alt="Tools and DevOps" />
+  </a>
+</p>
+
+<br/>
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **College Management System (CMS)** | `React 18` `TypeScript` `Node.js` `MySQL` | Comprehensive academic ERP with real-time attendance, assignment tracking, internal marks management, and circulars. | [🌐 Live Demo](https://college-management-system-cms-gamma.vercel.app) • [💻 Code](https://github.com/prasanthzodiac/College-Management-System-CMS-) |
+| **Company Intelligence AI** | `Python` `Ollama (LLaMA-3)` `Web Scraping` | Infynd Hackathon project: an offline intelligence pipeline that ingests domain datasets, captures local web snapshots, and synthesizes structured corporate dossiers using local LLMs. | [🌐 Live Demo](https://company-intelligence-ai-infynd-hack.vercel.app) • [💻 Code](https://github.com/prasanthzodiac/Company-Intelligence-AI---Infynd-Hackathon) |
+| **Smart Billing System** | `Next.js 15` `TypeScript` `Tailwind CSS` | Enterprise billing & invoice generation platform built with Next.js App Router, responsive styling, and modular component architecture. | [💻 Code](https://github.com/prasanthzodiac/Billing-system) |
+| **Valorae** | `React` `Vite` `Tailwind CSS` | Exclusive digital collectibles platform and authenticated fan ownership experience with polished UI animations. | [🌐 Live Demo](https://valorae.vercel.app) • [💻 Code](https://github.com/prasanthzodiac/Valorae) |
+| **Weave** | `TypeScript` `Vite` `CSS` | Interactive web experience and component showcase demonstrating clean frontend architecture and responsive styling. | [🌐 Live Demo](https://weave-bay.vercel.app) • [💻 Code](https://github.com/prasanthzodiac/Weave) |
+| **Lumisyn** | `Python` `Pytest` `Machine Learning` | Experimental ML research codebase featuring reproducible evaluation runs, structured benchmarking, and test suites. | [💻 Code](https://github.com/prasanthzodiac/Lumisyn) |
+
+<br/>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasanthzodiac&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>⭐️ Built with passion by Prasanth Zodiac. Always open to collaborations and exciting opportunities!</i>
+</p>
