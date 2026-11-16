@@ -44,8 +44,11 @@ jobs:
       - name: Render streak and activity stats SVG
         run: python scripts/render_stats_svg.py data/contributions.json stats.svg
 
+      - name: Render Neofetch terminal card SVG
+        run: python scripts/render_neofetch_svg.py
+
       - name: Commit refreshed art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(art): refresh live contribution graphs [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg neofetch.svg"

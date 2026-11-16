@@ -44,7 +44,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="./avatar-ascii.svg" width="100%" alt="Self-Typing ASCII Avatar" />
+      <img src="./neofetch.svg" width="100%" alt="Neofetch Terminal Card" />
     </td>
     <td width="50%" valign="top">
       <img src="./stats.svg" width="100%" alt="Terminal Stats and Monthly Graph" />

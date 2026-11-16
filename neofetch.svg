@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Courier New,monospace">
+<defs>
+  <linearGradient id="wbg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#111722"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </linearGradient>
+</defs>
+<style>
+  .ascii-logo {
+    fill: #58a6ff;
+    font-size: 13.5px;
+    font-weight: 700;
+    opacity: 0;
+    animation: fadein 0.4s ease-out both;
+  }
+  .spec-row {
+    opacity: 0;
+    transform-box: fill-box;
+    animation: slidein 0.35s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+  .term-box {
+    opacity: 0;
+    animation: fadein 0.5s ease-out both;
+  }
+  .cursor {
+    fill: #3fb950;
+    font-weight: 700;
+    font-size: 18px;
+    animation: blink 1s steps(2, start) infinite;
+  }
+  @keyframes fadein {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes slidein {
+    from { opacity: 0; transform: translateX(-12px); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .ascii-logo, .spec-row, .term-box { opacity: 1 !important; animation: none !important; }
+    .cursor { animation: none !important; }
+  }
+</style>
+
+<!-- Terminal Frame -->
+<rect width="840" height="880" rx="12" fill="url(#wbg)" stroke="#30363d" stroke-width="1"/>
+<rect width="840" height="34" rx="12" fill="#161b22"/>
+<rect y="24" width="840" height="10" fill="#161b22"/>
+<line x1="0" y1="34" x2="840" y2="34" stroke="#30363d" stroke-width="1"/>
+
+<!-- Titlebar Controls -->
+<circle cx="20" cy="17.0" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="17.0" r="5" fill="#ffbd2e"/>
+<circle cx="52" cy="17.0" r="5" fill="#27c93f"/>
+<text x="420.0" y="21.0" fill="#7d8590" font-size="12" font-weight="600" text-anchor="middle">
+  neofetch - prasanth@zodiac
+</text>
+
+<!-- Terminal Content -->
+<text class="ascii-logo" x="38" y="58" style="animation-delay:0.05s">&#160;&#160;&#160;&#160;____&#160;&#160;____&#160;&#160;___&#160;&#160;&#160;_____&#160;___&#160;&#160;&#160;&#160;_&#160;&#160;&#160;________&#160;&#160;__&#160;&#160;__</text><text class="ascii-logo" x="38" y="74" style="animation-delay:0.1s">&#160;&#160;&#160;/&#160;__&#160;\/&#160;__&#160;\/&#160;&#160;&#160;|&#160;/&#160;___//&#160;&#160;&#160;|&#160;&#160;/&#160;|&#160;/&#160;/_&#160;&#160;__/&#160;/&#160;/&#160;/&#160;/</text><text class="ascii-logo" x="38" y="90" style="animation-delay:0.15s">&#160;&#160;/&#160;/_/&#160;/&#160;/_/&#160;/&#160;/|&#160;|&#160;\__&#160;\/&#160;/|&#160;|&#160;/&#160;&#160;|/&#160;/&#160;/&#160;/&#160;&#160;&#160;/_/&#160;/_/&#160;</text><text class="ascii-logo" x="38" y="106" style="animation-delay:0.2s">&#160;/&#160;____/&#160;_,&#160;_/&#160;___&#160;|___/&#160;/&#160;___&#160;|/&#160;/|&#160;&#160;/&#160;/&#160;/&#160;&#160;&#160;_&#160;&#160;&#160;_&#160;&#160;&#160;&#160;</text><text class="ascii-logo" x="38" y="122" style="animation-delay:0.25s">/_/&#160;&#160;&#160;/_/&#160;|_/_/&#160;&#160;|_/____/_/&#160;&#160;|_/_/&#160;|_/&#160;/_/&#160;&#160;&#160;(_)&#160;(_)&#160;&#160;&#160;</text><line x1="28" y1="154" x2="812" y2="154" stroke="#30363d" stroke-width="1"/>
+        <g class="spec-row" style="animation-delay:0.3s">
+          <text x="40" y="180" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1">USER:</text>
+          <text x="148" y="180" fill="#58a6ff" font-size="13.5" font-weight="700">prasanth@zodiac</text>
+        </g>
+        
+        <g class="spec-row" style="animation-delay:0.37s">
+          <text x="40" y="212" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1">ROLE:</text>
+          <text x="148" y="212" fill="#e6edf3" font-size="13.5" font-weight="500">Full-Stack Software Engineer & AI Explorer</text>
+        </g>
+        
+        <g class="spec-row" style="animation-delay:0.44s">
+          <text x="40" y="244" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1">EDU:</text>
+          <text x="148" y="244" fill="#e6edf3" font-size="13.5" font-weight="500">B.E. Computer Science & Engineering</text>
+        </g>
+        
+        <g class="spec-row" style="animation-delay:0.51s">
+          <text x="40" y="276" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1">FOCUS:</text>
+          <text x="148" y="276" fill="#3fb950" font-size="13.5" font-weight="500">Next.js Enterprise SaaS & Local LLM Pipelines</text>
+        </g>
+        
+        <g class="spec-row" style="animation-delay:0.58s">
+          <text x="40" y="308" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1">FRONTEND:</text>
+          <text x="148" y="308" fill="#79c0ff" font-size="13.5" font-weight="500">Next.js 15, React 18, TypeScript, Tailwind CSS, Vite</text>
+        </g>
+        
+        <g class="spec-row" style="animation-delay:0.65s">
+          <text x="40" y="340" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1">BACKEND:</text>
+          <text x="148" y="340" fill="#d29922" font-size="13.5" font-weight="500">Node.js, Express, MySQL, Python, RESTful APIs</text>
+        </g>
+        
+        <g class="spec-row" style="animation-delay:0.72s">
+          <text x="40" y="372" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1">AI / ML:</text>
+          <text x="148" y="372" fill="#bc8cff" font-size="13.5" font-weight="500">Ollama (LLaMA-3), Offline Scraping, Data Workflows</text>
+        </g>
+        
+        <g class="spec-row" style="animation-delay:0.79s">
+          <text x="40" y="404" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1">DEVOPS:</text>
+          <text x="148" y="404" fill="#58a6ff" font-size="13.5" font-weight="500">Git, GitHub Actions, AWS, Vercel, Docker</text>
+        </g>
+        
+        <g class="spec-row" style="animation-delay:0.86s">
+          <text x="40" y="436" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1">PROJECTS:</text>
+          <text x="148" y="436" fill="#e6edf3" font-size="13.5" font-weight="500">College CMS, Company Intel AI, Billing SaaS, Valorae</text>
+        </g>
+        
+        <g class="spec-row" style="animation-delay:0.93s">
+          <text x="40" y="468" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1">STATUS:</text>
+          <text x="148" y="468" fill="#3fb950" font-size="13.5" font-weight="700">Available for high-impact roles & collaborations</text>
+        </g>
+        
+
+    <g class="term-box" style="animation-delay:1.05s">
+      <rect x="28" y="514" width="784" height="338" rx="8"
+            fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      
+      <!-- Command prompt -->
+      <text x="44" y="542" font-size="13" font-weight="600">
+        <tspan fill="#3fb950">prasanth@zodiac</tspan><tspan fill="#7d8590">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#e6edf3">$</tspan>
+        <tspan fill="#e6edf3"> npm run build &amp;&amp; ./deploy-featured.sh</tspan>
+      </text>
+      
+      <text x="44" y="568" fill="#7d8590" font-size="12.5" font-weight="500">
+        <tspan fill="#3fb950">✓</tspan> 6 production projects compiled • system optimal
+      </text>
+
+      <!-- Color dots -->
+      <g transform="translate(44, 596)">
+        <circle cx="8" cy="0" r="7" fill="#0d1117" stroke="#30363d"/>
+        <circle cx="30" cy="0" r="7" fill="#ff7b72"/>
+        <circle cx="52" cy="0" r="7" fill="#3fb950"/>
+        <circle cx="74" cy="0" r="7" fill="#d29922"/>
+        <circle cx="96" cy="0" r="7" fill="#58a6ff"/>
+        <circle cx="118" cy="0" r="7" fill="#bc8cff"/>
+        <circle cx="140" cy="0" r="7" fill="#39c5cf"/>
+        <circle cx="162" cy="0" r="7" fill="#e6edf3"/>
+        <text x="184" y="5" class="cursor">_</text>
+      </g>
+    </g>
+    
+</svg>
