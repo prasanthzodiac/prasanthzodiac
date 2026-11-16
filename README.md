@@ -1,5 +1,11 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prasanthzodiac/Prasanthzodiac/snake-output/github-snake.svg?v=1" width="100%" alt="Snake Animation Header" />
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,14,20&height=220&section=header&text=Prasanth%20S&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20Explorer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,14,20&height=200&section=header&text=Prasanth%20Zodiac&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20Explorer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -60,6 +66,8 @@
 
 ### 👨‍💻 About Me
 
+<img align="right" height="140" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+
 - 🎓 **Education**: B.E. Computer Science & Engineering student with a passion for software design and system architecture.
 - 💻 **Core Engineering**: Specialized in building responsive, high-performance web applications using **Next.js, React 18, TypeScript, Node.js, and modern CSS/Tailwind**.
 - 🤖 **AI & Automation**: Building intelligent automation workflows and offline intelligence pipelines using **Python, Ollama (LLaMA-3), and data analytics**.
@@ -67,6 +75,7 @@
 - 🔭 **Currently Building**: Next.js 15 enterprise billing systems and reproducible ML experimentation frameworks.
 - 💬 **Ask Me About**: Full-Stack architecture, RESTful APIs, local LLM tooling, and frontend performance.
 
+<br clear="both"/>
 <br/>
 
 ### 🛠️ Tech Stack & Tooling
