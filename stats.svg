@@ -46,10 +46,10 @@
             letter-spacing="0.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
         CURRENT STREAK
       </text>
-      <g class="counter"><text x="216.0" y="138" text-anchor="middle" fill="#39d353" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">10 days</text></g>
+      <g class="counter"><text x="216.0" y="138" text-anchor="middle" fill="#39d353" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">11 days</text></g>
       <text x="216.0" y="178" text-anchor="middle" fill="#7d8590" font-size="12"
             font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
-        Nov 16 – Nov 25
+        Nov 16 – Nov 26
       </text>
     </g>
     <g class="tile" style="animation-delay:0.15s">
@@ -59,10 +59,10 @@
             letter-spacing="0.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
         LONGEST STREAK
       </text>
-      <g class="counter"><text x="624.0" y="138" text-anchor="middle" fill="#58a6ff" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">10 days</text></g>
+      <g class="counter"><text x="624.0" y="138" text-anchor="middle" fill="#58a6ff" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">11 days</text></g>
       <text x="624.0" y="178" text-anchor="middle" fill="#7d8590" font-size="12"
             font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
-        Nov 16 – Nov 25
+        Nov 16 – Nov 26
       </text>
     </g>
     <g class="tile" style="animation-delay:0.3s">
@@ -72,10 +72,10 @@
             letter-spacing="0.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
         BUSIEST DAY
       </text>
-      <g class="counter"><text x="216.0" y="299" text-anchor="middle" fill="#e6edf3" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">15 contribs</text></g>
+      <g class="counter"><text x="216.0" y="299" text-anchor="middle" fill="#e6edf3" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">41 contribs</text></g>
       <text x="216.0" y="339" text-anchor="middle" fill="#7d8590" font-size="12"
             font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
-        May 14
+        Nov 26
       </text>
     </g>
     <g class="tile" style="animation-delay:0.45s">
@@ -85,10 +85,10 @@
             letter-spacing="0.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
         TOTAL CONTRIBUTIONS
       </text>
-      <g class="counter"><text x="624.0" y="299" text-anchor="middle" fill="#e6edf3" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">94</text></g>
+      <g class="counter"><text x="624.0" y="299" text-anchor="middle" fill="#e6edf3" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">135</text></g>
       <text x="624.0" y="339" text-anchor="middle" fill="#7d8590" font-size="12"
             font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
-        across past 369 days
+        across past 370 days
       </text>
     </g>
     <g class="tile" style="animation-delay:0.6s">
@@ -98,10 +98,10 @@
             letter-spacing="0.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
         ACTIVE DAYS
       </text>
-      <g class="counter"><text x="216.0" y="460" text-anchor="middle" fill="#39d353" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">27 / 369</text></g>
+      <g class="counter"><text x="216.0" y="460" text-anchor="middle" fill="#39d353" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">28 / 370</text></g>
       <text x="216.0" y="500" text-anchor="middle" fill="#7d8590" font-size="12"
             font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
-        7.3% of year
+        7.6% of year
       </text>
     </g>
     <g class="tile" style="animation-delay:0.75s">
@@ -111,7 +111,7 @@
             letter-spacing="0.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
         AVG / ACTIVE DAY
       </text>
-      <g class="counter"><text x="624.0" y="460" text-anchor="middle" fill="#e6edf3" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">3.5</text></g>
+      <g class="counter"><text x="624.0" y="460" text-anchor="middle" fill="#e6edf3" font-size="42" font-weight="700" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">4.8</text></g>
       <text x="624.0" y="500" text-anchor="middle" fill="#7d8590" font-size="12"
             font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
         contributions
@@ -155,9 +155,9 @@
       </text>
     </g>
     <g class="bar-col">
-      <rect class="bar" x="222.5" y="818.3125" width="57.5" height="15.6875" rx="4"
+      <rect class="bar" x="222.5" y="825.6333333333333" width="57.5" height="8.366666666666667" rx="4"
             fill="#26a641" style="animation-delay:1.48s;transform-origin:251.25px 834px"/>
-      <text x="251.25" y="812.3125" text-anchor="middle" fill="#7d8590"
+      <text x="251.25" y="819.6333333333333" text-anchor="middle" fill="#7d8590"
             font-size="11" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">2</text>
       <text x="251.25" y="852" text-anchor="middle"
             fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
@@ -175,9 +175,9 @@
       </text>
     </g>
     <g class="bar-col">
-      <rect class="bar" x="357.5" y="583.0" width="57.5" height="251.0" rx="4"
+      <rect class="bar" x="357.5" y="700.1333333333333" width="57.5" height="133.86666666666667" rx="4"
             fill="#26a641" style="animation-delay:1.6s;transform-origin:386.25px 834px"/>
-      <text x="386.25" y="577.0" text-anchor="middle" fill="#7d8590"
+      <text x="386.25" y="694.1333333333333" text-anchor="middle" fill="#7d8590"
             font-size="11" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">32</text>
       <text x="386.25" y="852" text-anchor="middle"
             fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
@@ -185,9 +185,9 @@
       </text>
     </g>
     <g class="bar-col">
-      <rect class="bar" x="425.0" y="708.5" width="57.5" height="125.5" rx="4"
+      <rect class="bar" x="425.0" y="767.0666666666666" width="57.5" height="66.93333333333334" rx="4"
             fill="#26a641" style="animation-delay:1.66s;transform-origin:453.75px 834px"/>
-      <text x="453.75" y="702.5" text-anchor="middle" fill="#7d8590"
+      <text x="453.75" y="761.0666666666666" text-anchor="middle" fill="#7d8590"
             font-size="11" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">16</text>
       <text x="453.75" y="852" text-anchor="middle"
             fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
@@ -195,9 +195,9 @@
       </text>
     </g>
     <g class="bar-col">
-      <rect class="bar" x="492.5" y="794.78125" width="57.5" height="39.21875" rx="4"
+      <rect class="bar" x="492.5" y="813.0833333333334" width="57.5" height="20.916666666666664" rx="4"
             fill="#26a641" style="animation-delay:1.72s;transform-origin:521.25px 834px"/>
-      <text x="521.25" y="788.78125" text-anchor="middle" fill="#7d8590"
+      <text x="521.25" y="807.0833333333334" text-anchor="middle" fill="#7d8590"
             font-size="11" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">5</text>
       <text x="521.25" y="852" text-anchor="middle"
             fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
@@ -215,9 +215,9 @@
       </text>
     </g>
     <g class="bar-col">
-      <rect class="bar" x="627.5" y="700.65625" width="57.5" height="133.34375" rx="4"
+      <rect class="bar" x="627.5" y="762.8833333333333" width="57.5" height="71.11666666666666" rx="4"
             fill="#26a641" style="animation-delay:1.84s;transform-origin:656.25px 834px"/>
-      <text x="656.25" y="694.65625" text-anchor="middle" fill="#7d8590"
+      <text x="656.25" y="756.8833333333333" text-anchor="middle" fill="#7d8590"
             font-size="11" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">17</text>
       <text x="656.25" y="852" text-anchor="middle"
             fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
@@ -225,9 +225,9 @@
       </text>
     </g>
     <g class="bar-col">
-      <rect class="bar" x="695.0" y="810.46875" width="57.5" height="23.53125" rx="4"
+      <rect class="bar" x="695.0" y="821.45" width="57.5" height="12.55" rx="4"
             fill="#26a641" style="animation-delay:1.9s;transform-origin:723.75px 834px"/>
-      <text x="723.75" y="804.46875" text-anchor="middle" fill="#7d8590"
+      <text x="723.75" y="815.45" text-anchor="middle" fill="#7d8590"
             font-size="11" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">3</text>
       <text x="723.75" y="852" text-anchor="middle"
             fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
@@ -235,10 +235,10 @@
       </text>
     </g>
     <g class="bar-col">
-      <rect class="bar" x="762.5" y="684.96875" width="57.5" height="149.03125" rx="4"
+      <rect class="bar" x="762.5" y="583.0" width="57.5" height="251.0" rx="4"
             fill="#26a641" style="animation-delay:1.96s;transform-origin:791.25px 834px"/>
-      <text x="791.25" y="678.96875" text-anchor="middle" fill="#7d8590"
-            font-size="11" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">19</text>
+      <text x="791.25" y="577.0" text-anchor="middle" fill="#7d8590"
+            font-size="11" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">60</text>
       <text x="791.25" y="852" text-anchor="middle"
             fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
         Nov
